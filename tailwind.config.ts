@@ -13,13 +13,22 @@ const config: Config = {
       },
       backgroundImage:{
         "mypic":"url('/logo.png')",
-        "logo": "url('/bglogo.png')"
+        "logo": "url('/bglogo.png')",
+        "isolate":"url('/isolate.png')"
       },
+      backgroundSize:{
+        "logo": "700px"
+      },
+      backgroundPosition: {
+        'right-10': 'bottom 200px right',
+      },
+
       colors: {
 
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      
     },
   },
   plugins: [],

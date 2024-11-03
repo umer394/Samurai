@@ -1,9 +1,10 @@
 import Image from "next/image";
 
+
 export default function Hero() {
   return (
-    <section id="home" className="text-white overflow-clip">
-      <div className="flex flex-col mt-32 mx-10">
+    <section id="home" className="text-white overflow-clip bg-logo bg-no-repeat  bg-right-10">
+      <div className="flex flex-col mt-32 mx-10" >
         <div>
           <p className="text-gray-400 font-extralight">
             Turning Your Challenges

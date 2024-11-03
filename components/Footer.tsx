@@ -17,7 +17,7 @@ export default function Footer(){
                     </div>
                     <button className="bg-black text-white font-bold w-[220px] h-[35px] rounded-sm">Book Consultation</button>
                 </div>
-                <div className="lg:flex mt-20 mx-20 justify-between pb-20">
+                <div className="lg:flex mt-20 mx-10 md:mx-20 justify-between pb-20">
                     <div className=" max-w-[540px] space-y-10">
                         <Image src={"/logo-black.png"} alt={"logo"} width={200} height={100}/>
                         <p className="text-sm">Samurai-Team of solution architects, developers and consultants having only one aim in mind <b> “deliver the best, nothing else”</b></p>
