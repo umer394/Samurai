@@ -62,7 +62,7 @@ function Solutions() {
                         </div>
                         <h2 className='text-4xl font-bold mt-1'><span className='text-[#C92127]'>Major Expense </span>for Companies</h2>
                         <h3 className='text-2xl font-bold'>IT Solutions for Every Business Size</h3>
-                        <p className='my-10 '>One of the biggest expenses for companies and enterprises is investing in the right IT equipment. We can help you if you're a start-up, a large company, or an organization moving to the cloud. Our services inculde.</p>
+                        <p className='my-10 '>One of the biggest expenses for companies and enterprises is investing in the right IT equipment. We can help you if you`&apos;`re a start-up, a large company, or an organization moving to the cloud. Our services inculde.</p>
                         <div className='md:flex justify-between mb-20'>
                             <div className='space-y-1'>
                                 <h1 className='flex gap-2 font-semibold text-sm'><Image src={'/list.png'} alt={'list'} height={20} width={20}/>Technical IT infrastructure </h1>
